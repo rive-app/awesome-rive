@@ -99,6 +99,7 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 
 - [Tappy Turkey Game](https://youtu.be/hAYZrNeAPP8?t=1200) - Create a Flappy Bird like game with Rive.
 - [Integrating your RIVE Animations on the Web!](https://www.youtube.com/watch?v=WOOtILLrb0Q) - DesignCourse
+- [Rive button Implementation in Webflow](https://youtu.be/B-vER2XpPVQ) - Jeff McAvoy
 
 ### React
 
