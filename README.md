@@ -5,6 +5,8 @@
 
 ![dragon_resized](https://user-images.githubusercontent.com/13705472/217288885-43909f6d-8742-4a33-a09b-e4b46d8ebe37.gif)
 
+![dragon](https://user-images.githubusercontent.com/13705472/217289616-3b750144-eaf5-457e-b664-e4b0f054a781.gif)
+
 A collection of resources and examples on using Rive in all the different supported runtimes, from articles, videos, and courses, to deployed examples you can check out.
 
 ## Rive Overview
