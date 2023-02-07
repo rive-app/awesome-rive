@@ -5,7 +5,9 @@
 
 ![dragon_rive_banner](https://user-images.githubusercontent.com/13705472/217293837-c3f32a63-b4f2-4d7f-b1ae-ee77c5cda1c3.png)
 
-A collection of resources and examples on using Rive in all the different supported runtimes, from articles, videos, and courses, to deployed examples you can check out.
+A collection of resources and examples on using Rive, from articles, videos, courses, and everything else.
+
+Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 
 ## Rive Overview
 
