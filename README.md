@@ -27,23 +27,23 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 - [Defold](https://defold.com/extension-rive/)
 - [Tizen](https://github.com/rive-app/rive-tizen)
 
-## Courses
-
 ---
+
+## Courses
 
 ### SwiftUI
 
 - [Build an animated app](https://designcode.io/swiftui-rive) - Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions. [Flutter](https://github.com/Aashu-Dubey/flutter-samples/tree/main/lib/rive_app), [React-Native](https://github.com/lklima/rive-animated-app), and [MauiReactor](https://github.com/adospace/rive-app) recreations are also available as open source projects.
 
-## Resources
-
 ---
+
+## Resources
 
 - [Riveflow](https://riveflow.webflow.io/) - Learn how to create next-level interactive animations for Webflow websites with Rive.
 
-## Articles
-
 ---
+
+## Articles
 
 ### Introduction
 
@@ -60,8 +60,10 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 - [Animate Web UIs with State Machines](https://marmelab.com/blog/2023/01/30/rive-animation-state-machine.html) - Explore Rive state machines to build web UIs
 
 ### Android
+- Be the first to add 🚀
 
 ### iOS
+- Be the first to add 🚀
 
 ### Flutter
 
@@ -77,9 +79,9 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 - [Gatsby](https://rive.app/blog/rive-gatsby-rise-of-the-robots) - Create a seamless designer-developer workflow with Rive and Gatsby.
 - [Gatsby](https://www.gatsbyjs.com/blog/building-rise-of-the-robots/) - Building Rise of the Robots.
 
-## Videos
-
 ---
+
+## Videos
 
 ### Introduction
 
@@ -104,6 +106,7 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 - [Syncing Scroll Position with Rive](https://www.youtube.com/watch?v=iNEqhyEzAKs&list=PLujDTZWVDSsFR582ypXnrbpH8_3S9a-RF&index=15) - Scroll position influencing Rive animations/state machines.
 
 ### Android
+- Be the first to add 🚀
 
 ### iOS/SwiftUI
 
@@ -144,9 +147,9 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 
 - [Rise of the Robots | Gatsby + Rive](https://www.youtube.com/watch?v=37-BKyNlJzs) - Immersive web experiences can get high lighthouse scores, be fully accessible, and convert users across all devices.
 
-## Games
-
 ---
+
+## Games
 
 ### Web/JS
 
@@ -161,9 +164,9 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 
 - [Flame/Rive Doodle Dash Game](https://github.com/HayesGordon/flame_rive_doodle_dash_game) - An extension to the Flame Doodle Dash game to add Rive animations.
 
-## Use Cases
-
 ---
+
+## Use Cases
 
 ### Pull To Refresh
 
@@ -193,17 +196,17 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 
 - [A simple skinning example](https://codesandbox.io/s/rive-sm-workshop-demo-bare-demo2-ivv1pj?file=/src/App.js:0-24) - Skinning is managed in the Rive editor, and toggled with an input
 
-## Advanced
-
 ---
+
+## Advanced
 
 - [Track a Rive component in Flutter](https://github.com/luigi-rosso/rive_flutter_painting_context/) - Demo showing how to make use of the low level rendering to track a Rive component and overlay text with a painting context.
 - [Rive Canvas Advanced API](https://codesandbox.io/s/rive-canvas-advanced-api-centaur-example-exh2os?file=/src/index.ts:2919-2958) - Centaur Example game, combining multiple artboards.
 - [Android Rive Piggy](https://github.com/mjtalbot/rive_piggy) - Combine multiple artboards together to layer an animation.
 
-## Open Source Apps with Rive Animations
-
 ---
+
+## Open Source Apps with Rive Animations
 
 ### Web
 
