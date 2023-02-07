@@ -3,6 +3,8 @@
 
 # Awesome Rive
 
+![dragon_resized](https://user-images.githubusercontent.com/13705472/217288885-43909f6d-8742-4a33-a09b-e4b46d8ebe37.gif)
+
 A collection of resources and examples on using Rive in all the different supported runtimes, from articles, videos, and courses, to deployed examples you can check out.
 
 ## Rive Overview
