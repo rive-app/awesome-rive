@@ -49,6 +49,12 @@ Want to add your content? Check out our [contributing guide](/CONTRIBUTING.md)!
 
 - Official [Rive Blog](https://rive.app/blog)
 
+### Case Studies
+
+**Duolingo**
+
+- [Lip Syncing](https://blog.duolingo.com/world-character-visemes/) - Art meets technology: the next step in bringing our characters to life.
+
 ### Web
 
 - [ARIA Live Regions](https://rive.app/blog/accesible-web-animations-aria-live-regions) - Implement accessibility features with dynamically changing content.
