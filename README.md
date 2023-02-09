@@ -234,6 +234,7 @@ Table of contents:
 
 **Flutter**
 
+- [Delightful Ocean Email Form](https://zapp.run/edit/interactive-rive-email-form-zv206x8v306?file=lib/main.dart&entry=lib/main.dart) - Render interactive code "in between" a Rive animation. See video [here](https://youtu.be/RyKMaTqpU7U?t=3145).
 - [Flutter Teddy Login Screen](https://github.com/GJJ2019/Flutter-Teddy-SignIn) - Animated teddy login screen.
 
 ### Buttons/Icons
