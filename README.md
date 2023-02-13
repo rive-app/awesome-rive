@@ -264,6 +264,7 @@ Table of contents:
 ### Web
 
 - [Tuner](https://github.com/zplata/tuner-app) - A musical instrument tuning web app using Web Audio APIs and the low-level JS runtime
+- [Don't Look at Me](https://github.com/zplata/dont-look-at-me) - Using eye movement detection to trigger a state machine
 
 ### React
 
