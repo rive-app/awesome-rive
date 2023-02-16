@@ -100,6 +100,10 @@ Table of contents:
 
 - [Lip Syncing](https://blog.duolingo.com/world-character-visemes/) - Art meets technology: the next step in bringing our characters to life.
 
+**Animade**
+
+- [Getting mischievous with Rive](https://animade.tv/notes/rive-jive) - "We love playing around with new software, so we picked up Rive, an app for creating interactive animations."
+
 ### Web
 
 - [ARIA Live Regions](https://rive.app/blog/accesible-web-animations-aria-live-regions) - Implement accessibility features with dynamically changing content.
@@ -183,6 +187,7 @@ Table of contents:
 - [Plant Growing Animation with Rive and Flutter](https://www.youtube.com/watch?v=fn-0bIsf43w) - Implement the animation in Flutter
 - [Animated Water Bar Slider](https://www.youtube.com/watch?v=u-HTpDrhpS4) - Learn how to make an animated custom slider with Flutter + Rive
 - [FlutterFlow Rive Animation Tutorial](https://www.youtube.com/watch?v=5kzut4NOMA8) - Add Rive animations to your FlutterFlow app.
+- [Add Rive to your Flutter Flame game](https://www.youtube.com/watch?v=0FDHpOpfX_U) - Learn how to add interactive Rive animations to a Flutter Flame game.
 
 ### Defold
 
@@ -214,7 +219,7 @@ Table of contents:
 
 ### Flame (Flutter)
 
-- [Flame/Rive Doodle Dash Game](https://github.com/HayesGordon/flame_rive_doodle_dash_game) - An extension to the Flame Doodle Dash game to add Rive animations.
+- [Flame/Rive Doodle Dash Game](https://github.com/HayesGordon/flame_rive_doodle_dash_game) - An extension to the Flame Doodle Dash game to add Rive animations. See step-by-step [video tutorial](https://www.youtube.com/watch?v=0FDHpOpfX_U).
 
 ---
 
