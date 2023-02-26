@@ -78,7 +78,7 @@ Table of contents:
 
 ### SwiftUI
 
-- [Build an animated app](https://designcode.io/swiftui-rive) - Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions. [Flutter](https://github.com/Aashu-Dubey/flutter-samples/tree/main/lib/rive_app), [React-Native](https://github.com/lklima/rive-animated-app), and [MauiReactor](https://github.com/adospace/rive-app) recreations are also available as open source projects.
+- [Build an animated app](https://designcode.io/swiftui-rive) - Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions. [Flutter](https://github.com/Aashu-Dubey/flutter-samples/tree/main/lib/samples/ui/rive_app), [React-Native](https://github.com/lklima/rive-animated-app), [Ionic](https://github.com/Aashu-Dubey/Ionic-UI-Templates/tree/main/ionic_ui_templates/src/app/templates/course-rive), and [MauiReactor](https://github.com/adospace/rive-app) recreations are also available as open source projects.
 
 ---
 
@@ -286,7 +286,7 @@ Table of contents:
 - [Holobooth](https://github.com/flutter/holobooth) - Jump into a new reality to bring Dash and Sparky to life!
 - [History of Everything](https://github.com/2d-inc/HistoryOfEverything) - A vertical timeline that allows you to navigate, explore, and compare events from the Big Bang to the birth of the Internet.
 - [Developer Quest](https://github.com/2d-inc/developer_quest) - Become a tech lead, slay bugs.
-- [Rive Animated App](https://github.com/Aashu-Dubey/flutter-samples/tree/main/lib/rive_app) - Recreation of DesignCourse app.
+- [Rive Animated App](https://github.com/Aashu-Dubey/flutter-samples/tree/main/lib/samples/ui/rive_app) - Recreation of DesignCourse app | [Web Demo](https://aashu-dubey.github.io/flutter-samples/#/course-rive).
 - Flutter Puzzle Hack 2022 (Submission that made use of Rive)
     - [Retro Slide Puzzle (Winner - Animation/Design)](https://devpost.com/software/retro-slide-puzzle)
     - [Dash Slide Puzzle (Runner Up - Animation/Design)](https://devpost.com/software/dash-slide-puzzle)
@@ -301,3 +301,7 @@ Table of contents:
     - [Sliding Puzzle 3D (Honorable Mention)](https://devpost.com/software/sliding-puzzle-3d)
     - [Water Slide (Honorable Mention)](https://devpost.com/software/water-slide)
     - [The Mαth∫etΣs (Honorable Mention)](https://devpost.com/software/the-m-th-et-s)
+
+### Ionic
+
+- [Rive Animated App](https://github.com/Aashu-Dubey/Ionic-UI-Templates/tree/main/ionic_ui_templates/src/app/templates/course-rive) - Recreation of DesignCourse app using Angular | [Web Demo](https://aashu-dubey.github.io/Ionic-UI-Templates/course-rive)
