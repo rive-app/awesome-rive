@@ -131,6 +131,7 @@ Table of contents:
 ### Frameworks
 
 - [Framer Integration](https://rive.app/blog/rive-framer) - Use interactive Rive content in Framer's flexible website builder without code.
+- [Wordpress Addon](https://greenshiftwp.com/rive-app-wordpress-addon/) - Greenshift animation addon allows you to use and configure Rive files directly in the WordPress editor.
 - [Gatsby](https://rive.app/blog/rive-gatsby-rise-of-the-robots) - Create a seamless designer-developer workflow with Rive and Gatsby.
 - [Gatsby](https://www.gatsbyjs.com/blog/building-rise-of-the-robots/) - Building Rise of the Robots.
 
