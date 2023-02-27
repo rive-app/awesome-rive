@@ -162,7 +162,7 @@ Table of contents:
 - [Syncing Scroll Position with Rive](https://www.youtube.com/watch?v=iNEqhyEzAKs&list=PLujDTZWVDSsFR582ypXnrbpH8_3S9a-RF&index=15) - Scroll position influencing Rive animations/state machines.
 
 ### Android
-- Be the first to add 🚀
+- [Animated Icons in Android - Rive](https://youtu.be/REyOGQiM7zc) - Create your own animated vector icons with Rive.
 
 ### iOS/SwiftUI
 
@@ -275,6 +275,9 @@ Table of contents:
 
 - [Plant Blog](https://plant-blog-rive.vercel.app/) - NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. [Code](https://github.com/zplata/plant-blog-rive)
 - [Rise of the Robots](https://www.gatsbyjs.com/demos/rise-of-the-robots/) - Gatsby app with stateful and interactive Rive content with accessibility and performant practices in mind. [Code](https://github.com/PaulieScanlon/rise-of-the-robots)
+
+### Android
+- [Coffee Loader](https://github.com/Rahkeen/CoffeeLoader) - Play with a cute coffee loader built by [@JcToon](https://twitter.com/HelloJcToon)
 
 ### React-Native
 
