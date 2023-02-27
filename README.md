@@ -155,6 +155,7 @@ Table of contents:
 - [Tappy Turkey Game](https://youtu.be/hAYZrNeAPP8?t=1200) - Create a Flappy Bird like game with Rive.
 - [Integrating your RIVE Animations on the Web!](https://www.youtube.com/watch?v=WOOtILLrb0Q) - DesignCourse
 - [Rive button Implementation in Webflow](https://youtu.be/B-vER2XpPVQ) - Jeff McAvoy
+- Animate Fons Mans' Noodle Illustration (by Abe) — [1](https://twitter.com/abeyang/status/1606306144930013185) | [2](https://twitter.com/abeyang/status/1606331502546915330) | [3](https://twitter.com/abeyang/status/1607889688144248832)
 
 ### React
 
