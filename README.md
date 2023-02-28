@@ -47,6 +47,7 @@ Table of contents:
     - [Forms](#forms)
     - [Buttons/Icons](#buttonsicons)
     - [Skinning](#skinning)
+    - [Swipe Interactions](#swipe-interactions)
   - [Advanced](#advanced)
   - [Open Source Apps with Rive Animations](#open-source-apps-with-rive-animations)
     - [Web](#web-1)
@@ -251,9 +252,15 @@ Table of contents:
 
 ### Skinning
 
-************Web/JS************
+**Web/JS**
 
 - [A simple skinning example](https://codesandbox.io/s/rive-sm-workshop-demo-bare-demo2-ivv1pj?file=/src/App.js:0-24) - Skinning is managed in the Rive editor, and toggled with an input
+
+### Swipe Interactions
+
+**SwiftUI**
+
+- [Swipeable (dismissable) daily TODO app demo](https://github.com/HayesGordon/swiftui-swipeable-rive-animations) - Demonstrates how to create custom swipeable (dismissable) gestures, with a synced Rive animation.
 
 ---
 
