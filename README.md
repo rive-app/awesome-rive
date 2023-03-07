@@ -267,8 +267,14 @@ Table of contents:
 
 ## Advanced
 
+**Flutter**
 - [Track a Rive component in Flutter](https://github.com/luigi-rosso/rive_flutter_painting_context/) - Demo showing how to make use of the low level rendering to track a Rive component and overlay text with a painting context.
+- [Dynamically update component colors at runtime](https://github.com/HayesGordon/rive_flutter_runtime_color_change_example) - Make use of a custom Rive render object to change a shape's fill color, accessing it by name.
+
+**JS**
 - [Rive Canvas Advanced API](https://codesandbox.io/s/rive-canvas-advanced-api-centaur-example-exh2os?file=/src/index.ts:2919-2958) - Centaur Example game, combining multiple artboards.
+
+**Android**
 - [Android Rive Piggy](https://github.com/mjtalbot/rive_piggy) - Combine multiple artboards together to layer an animation.
 
 ---
