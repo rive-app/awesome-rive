@@ -19,6 +19,7 @@ Table of contents:
   - [Articles](#articles)
     - [Introduction](#introduction)
     - [Case Studies](#case-studies)
+    - [Rive GameKit](#rive-gamekit)
     - [Web](#web)
     - [React](#react)
     - [Android](#android)
@@ -28,6 +29,7 @@ Table of contents:
   - [Videos](#videos)
     - [Introduction](#introduction-1)
     - [Rive Editor](#rive-editor)
+    - [Rive GameKit](#rive-gamekit-1)
     - [Web/JS](#webjs)
     - [React](#react-1)
     - [Android](#android-1)
@@ -35,10 +37,13 @@ Table of contents:
     - [React Native](#react-native)
     - [macOS](#macos)
     - [Flutter](#flutter-1)
+    - [Noesis](#noesis)
     - [Defold](#defold)
     - [Webflow](#webflow)
     - [Frameworks](#frameworks-1)
   - [Games](#games)
+    - [Rive GameKit](#rive-gamekit-2)
+    - [Noesis](#noesis-1)
     - [Web/JS](#webjs-1)
     - [Flutter](#flutter-2)
     - [Flame (Flutter)](#flame-flutter)
@@ -52,8 +57,10 @@ Table of contents:
   - [Open Source Apps with Rive Animations](#open-source-apps-with-rive-animations)
     - [Web](#web-1)
     - [React](#react-2)
+    - [Android](#android-2)
     - [React-Native](#react-native-1)
     - [Flutter](#flutter-3)
+    - [Ionic](#ionic)
 
 ## Rive Overview
 
@@ -61,6 +68,7 @@ Table of contents:
 
 ## Runtime Documentation
 
+- [Rive GameKit](https://help.rive.app/rive-gamekit/overview)
 - [Web/JS](https://help.rive.app/runtimes/overview/web-js)
 - [iOS](https://help.rive.app/runtimes/overview/ios)
 - macOS (Coming Soon)
@@ -72,6 +80,7 @@ Table of contents:
 - [C++](https://github.com/rive-app/rive-cpp)
 - [Defold](https://defold.com/extension-rive/)
 - [Tizen](https://github.com/rive-app/rive-tizen)
+- [Noesis](https://help.rive.app/runtimes/overview/noesis)
 
 ---
 
@@ -104,6 +113,9 @@ Table of contents:
 **Animade**
 
 - [Getting mischievous with Rive](https://animade.tv/notes/rive-jive) - "We love playing around with new software, so we picked up Rive, an app for creating interactive animations."
+
+### GameKit
+- [Why we chose Flutter for the Rive GameKit](https://rive.app/blog/why-we-chose-flutter-for-the-rive-gamekit) - "The Rive GameKit for Flutter is the first product to take advantage of the Rive Renderer. It's available now as a technical preview"
 
 ### Web
 
@@ -152,6 +164,10 @@ Table of contents:
 - [Hamburger Menu](https://www.youtube.com/watch?v=6zsh1musFuE) - Use simple motion to create icon animations.
 - [Wait, Loading](https://www.youtube.com/watch?v=9iyHMAmBw5U) - Create a loading bar in Rive.
 
+### Rive GameKit
+- [Introducing the Rive GameKit for Flutter](https://www.youtube.com/watch?v=YwRWJX0OC34) - Overview of the Rive GameKit
+- [Explore the Rive GameKit - Let's create the Centaur Game](https://www.youtube.com/watch?v=lcWiCrKoVpQ) - Take a first look at the Rive GameKit and learn how to build the Centaur Game from scratch.
+
 ### Web/JS
 
 - [Tappy Turkey Game](https://youtu.be/hAYZrNeAPP8?t=1200) - Create a Flappy Bird like game with Rive.
@@ -192,6 +208,13 @@ Table of contents:
 - [FlutterFlow Rive Animation Tutorial](https://www.youtube.com/watch?v=5kzut4NOMA8) - Add Rive animations to your FlutterFlow app.
 - [Add Rive to your Flutter Flame game](https://www.youtube.com/watch?v=0FDHpOpfX_U) - Learn how to add interactive Rive animations to a Flutter Flame game.
 
+### [Noesis](https://www.noesisengine.com)
+
+- [Use Rive and Noesis to create animated UI for games](https://www.youtube.com/watch?v=P_GaN6Bvt70) - A sizzle video showcasing Rive + Noesis
+- [Create animated UI in Unity using Rive and Noesis](https://www.youtube.com/watch?v=F6Q4pfnBhbI) - Tutorial on how to add Rive to your Unity games using Noesis.
+- [Unreal tutorial for Rive + Noesis](https://www.youtube.com/watch?v=WuMHGPOINSo) - Tutorial on how to add Rive to your Unreal games using Noesis.
+
+
 ### Defold
 
 - [Rive + DEFOLD == Win?](https://www.youtube.com/watch?v=V6l_ZorLAGg) - Take a look at Rive and Defold (Gamefromscratch)
@@ -210,6 +233,15 @@ Table of contents:
 ---
 
 ## Games
+
+### Rive GameKit
+Learn more about the Rive GameKit: https://rive.app/use-cases/rive-gamekit-for-flutter
+
+Example games: https://github.com/rive-app/rive-gamekit-examples
+
+### Noesis
+Learn more about Rive + Noesis: https://rive.app/use-cases/rive-noesis
+
 
 ### Web/JS
 
