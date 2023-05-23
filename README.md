@@ -88,7 +88,7 @@ Table of contents:
 
 ### SwiftUI
 
-- [Build an animated app](https://designcode.io/swiftui-rive) - Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions. [Flutter](https://github.com/Aashu-Dubey/flutter-samples/tree/main/lib/samples/ui/rive_app), [React-Native](https://github.com/lklima/rive-animated-app), [Ionic](https://github.com/Aashu-Dubey/Ionic-UI-Templates/tree/main/ionic_ui_templates/src/app/templates/course-rive), and [MauiReactor](https://github.com/adospace/rive-app) recreations are also available as open source projects.
+- [Build an animated app](https://designcode.io/swiftui-rive) - Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions. [Flutter](https://github.com/Aashu-Dubey/flutter-samples/tree/main/lib/samples/ui/rive_app), [React-Native](https://github.com/lklima/rive-animated-app) and [Ionic](https://github.com/Aashu-Dubey/Ionic-UI-Templates/tree/main/ionic_ui_templates/src/app/templates/course-rive) are also available as open source projects.
 
 ---
 
