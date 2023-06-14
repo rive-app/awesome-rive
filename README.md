@@ -114,6 +114,9 @@ Table of contents:
 
 - [Getting mischievous with Rive](https://animade.tv/notes/rive-jive) - "We love playing around with new software, so we picked up Rive, an app for creating interactive animations."
 
+**Contenda**
+- [From Concept to Code: How Rive Supercharged My Design Implementation](https://contenda.co/blog/landingpage/) - "For anyone interested in efficient design-to-development workflows."
+
 ### GameKit
 - [Why we chose Flutter for the Rive GameKit](https://rive.app/blog/why-we-chose-flutter-for-the-rive-gamekit) - "The Rive GameKit for Flutter is the first product to take advantage of the Rive Renderer. It's available now as a technical preview"
 
