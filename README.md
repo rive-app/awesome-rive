@@ -53,6 +53,7 @@ Table of contents:
     - [Buttons/Icons](#buttonsicons)
     - [Skinning](#skinning)
     - [Swipe Interactions](#swipe-interactions)
+    - [Animated cursor](#animated-cursor)
   - [Advanced](#advanced)
   - [Open Source Apps with Rive Animations](#open-source-apps-with-rive-animations)
     - [Web](#web-1)
@@ -210,6 +211,7 @@ Table of contents:
 - [Animated Water Bar Slider](https://www.youtube.com/watch?v=u-HTpDrhpS4) - Learn how to make an animated custom slider with Flutter + Rive
 - [FlutterFlow Rive Animation Tutorial](https://www.youtube.com/watch?v=5kzut4NOMA8) - Add Rive animations to your FlutterFlow app.
 - [Add Rive to your Flutter Flame game](https://www.youtube.com/watch?v=0FDHpOpfX_U) - Learn how to add interactive Rive animations to a Flutter Flame game.
+- [Create an animated spider cursor](https://www.youtube.com/watch?v=EeRrdFk7SOQ) - Replace your mouse cursor with a crawling spider
 
 ### [Noesis](https://www.noesisengine.com)
 
@@ -265,9 +267,7 @@ Learn more about Rive + Noesis: https://rive.app/use-cases/rive-noesis
 
 ### Pull To Refresh
 
-**************Flutter**************
-
-- [Flutter-Easy-Refresh](https://github.com/xuelongqy/flutter_easy_refresh) - There are various Rive examples in this demo app. Take a look at [Halloween Horror](https://xuelongqy.github.io/flutter_easy_refresh/#/style/halloween)
+See the [Rive Pull To Refresh use case page](https://rive.app/use-cases/pull-to-refresh).
 
 ### Forms
 
@@ -297,6 +297,12 @@ Learn more about Rive + Noesis: https://rive.app/use-cases/rive-noesis
 **SwiftUI**
 
 - [Swipeable (dismissable) daily TODO app demo](https://github.com/HayesGordon/swiftui-swipeable-rive-animations) - Demonstrates how to create custom swipeable (dismissable) gestures, with a synced Rive animation.
+
+### Animated Cursor
+
+**Flutter**
+
+- [Animated spider cursor](https://www.youtube.com/watch?v=EeRrdFk7SOQ) - Create an animated spider cursor that crawls across the screen.
 
 ---
 
