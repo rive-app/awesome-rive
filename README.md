@@ -132,7 +132,7 @@ Table of contents:
 - [Animate Web UIs with State Machines](https://marmelab.com/blog/2023/01/30/rive-animation-state-machine.html) - Explore Rive state machines to build web UIs
 
 ### Android
-- Be the first to add 🚀
+- [Responsive Animation Login Screen](https://github.com/cumpatomas/rive-on-android/tree/login_button) - Implement an animated login experience using Rive on Android
 
 ### iOS
 - Be the first to add 🚀
