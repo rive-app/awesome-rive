@@ -290,7 +290,7 @@ See the [Rive Pull To Refresh use case page](https://rive.app/use-cases/pull-to-
 
 **Web/JS**
 
-- [A simple skinning example](https://codesandbox.io/s/rive-sm-workshop-demo-bare-demo2-ivv1pj?file=/src/App.js:0-24) - Skinning is managed in the Rive editor, and toggled with an input
+- [A simple skinning example](https://codesandbox.io/s/rive-sm-workshop-demo-bare-demo2-ivv1pj?file=/src/App.js:0-24) - Skinning is managed in the Rive editor and toggled with an input
 
 ### Swipe Interactions
 
@@ -303,6 +303,12 @@ See the [Rive Pull To Refresh use case page](https://rive.app/use-cases/pull-to-
 **Flutter**
 
 - [Animated spider cursor](https://www.youtube.com/watch?v=EeRrdFk7SOQ) - Create an animated spider cursor that crawls across the screen.
+
+### Sync Sounds at runtime
+
+**Web/JS**
+
+- [One Kraken Band](https://cryptid-kids.webflow.io/one-kraken-band) - Sync sound with actions in the state machine using the high-level JS runtime and howler.js
 
 ---
 
