@@ -19,7 +19,7 @@ Table of contents:
   - [Articles](#articles)
     - [Introduction](#introduction)
     - [Case Studies](#case-studies)
-    - [Rive GameKit](#rive-gamekit)
+    - [GameKit](#gamekit)
     - [Web](#web)
     - [React](#react)
     - [Android](#android)
@@ -29,7 +29,7 @@ Table of contents:
   - [Videos](#videos)
     - [Introduction](#introduction-1)
     - [Rive Editor](#rive-editor)
-    - [Rive GameKit](#rive-gamekit-1)
+    - [Rive GameKit](#rive-gamekit)
     - [Web/JS](#webjs)
     - [React](#react-1)
     - [Android](#android-1)
@@ -42,7 +42,7 @@ Table of contents:
     - [Webflow](#webflow)
     - [Frameworks](#frameworks-1)
   - [Games](#games)
-    - [Rive GameKit](#rive-gamekit-2)
+    - [Rive GameKit](#rive-gamekit-1)
     - [Noesis](#noesis-1)
     - [Web/JS](#webjs-1)
     - [Flutter](#flutter-2)
@@ -53,7 +53,8 @@ Table of contents:
     - [Buttons/Icons](#buttonsicons)
     - [Skinning](#skinning)
     - [Swipe Interactions](#swipe-interactions)
-    - [Animated cursor](#animated-cursor)
+    - [Animated Cursor](#animated-cursor)
+    - [Sync Sounds at runtime](#sync-sounds-at-runtime)
   - [Advanced](#advanced)
   - [Open Source Apps with Rive Animations](#open-source-apps-with-rive-animations)
     - [Web](#web-1)
@@ -117,6 +118,10 @@ Table of contents:
 
 **Contenda**
 - [From Concept to Code: How Rive Supercharged My Design Implementation](https://contenda.co/blog/landingpage/) - "For anyone interested in efficient design-to-development workflows."
+
+**Plumcat**
+- [The Principles of Animation: Interactive Edition](https://plumcatstudio.com/blog/principles-of-animation) - "We've had a ton of fun experimenting with an animation of a cat in a washing machine."
+- [The Power of Rive: A New Standard for Interactive Animations](https://plumcatstudio.com/blog/the-power-of-rive-a-new-standard-for-interactive-animations) - "We've been playing around with this awesome interactive animation tool called Rive, and it's blown us away!".
 
 ### GameKit
 - [Why we chose Flutter for the Rive GameKit](https://rive.app/blog/why-we-chose-flutter-for-the-rive-gamekit) - "The Rive GameKit for Flutter is the first product to take advantage of the Rive Renderer. It's available now as a technical preview"
