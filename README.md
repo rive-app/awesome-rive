@@ -22,6 +22,7 @@ Table of contents:
     - [GameKit](#gamekit)
     - [Web](#web)
     - [React](#react)
+    - [NativeScript](#nativescript)
     - [Android](#android)
     - [iOS](#ios)
     - [Flutter](#flutter)
@@ -135,6 +136,9 @@ Table of contents:
 - [Animated Login Screen](https://rive.app/blog/animated-login-screen-implementation) - Implement an animated login experience using Rive's React runtime.
 - [Optimization techniques](https://pixelpoint.io/blog/rive-react-optimizations/) - Techniques to optimize Rive animations in React apps.
 - [Animate Web UIs with State Machines](https://marmelab.com/blog/2023/01/30/rive-animation-state-machine.html) - Explore Rive state machines to build web UIs
+
+### NativeScript
+- [🤘 Rock on with Rive in NativeScript](https://blog.nativescript.org/nativescript-rive/) - Run Rive with NativeScript
 
 ### Android
 - [Responsive Animation Login Screen](https://github.com/cumpatomas/rive-on-android/tree/login_button) - Implement an animated login experience using Rive on Android
