@@ -22,7 +22,7 @@ Table of contents:
     - [GameKit](#gamekit)
     - [Web](#web)
     - [React](#react)
-    - [NativeScript/(#nativescript)
+    - [NativeScript](#nativescript)
     - [Android](#android)
     - [iOS](#ios)
     - [Flutter](#flutter)
