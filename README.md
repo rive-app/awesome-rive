@@ -124,6 +124,9 @@ Table of contents:
 - [The Principles of Animation: Interactive Edition](https://plumcatstudio.com/blog/principles-of-animation) - "We've had a ton of fun experimenting with an animation of a cat in a washing machine."
 - [The Power of Rive: A New Standard for Interactive Animations](https://plumcatstudio.com/blog/the-power-of-rive-a-new-standard-for-interactive-animations) - "We've been playing around with this awesome interactive animation tool called Rive, and it's blown us away!".
 
+**EvolveYou**
+- [How We Designed a Gamification Platform to Keep Our Users Engaged](https://evolveyou-tech.medium.com/how-we-designed-a-gamification-platform-to-keep-our-users-engaged-c175c9c8283f) - "Rive was the best choice for us as it’s the rising star in bridging animation between design and code".
+
 ### GameKit
 - [Why we chose Flutter for the Rive GameKit](https://rive.app/blog/why-we-chose-flutter-for-the-rive-gamekit) - "The Rive GameKit for Flutter is the first product to take advantage of the Rive Renderer. It's available now as a technical preview"
 
