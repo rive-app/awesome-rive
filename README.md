@@ -231,6 +231,9 @@ Table of contents:
 - [Create animated UI in Unity using Rive and Noesis](https://www.youtube.com/watch?v=F6Q4pfnBhbI) - Tutorial on how to add Rive to your Unity games using Noesis.
 - [Unreal tutorial for Rive + Noesis](https://www.youtube.com/watch?v=WuMHGPOINSo) - Tutorial on how to add Rive to your Unreal games using Noesis.
 
+### [Framer](http://framer.com)
+- [Rive + Framer Demo](https://www.youtube.com/watch?v=jM8DQmPw0pc) - A getting started tutorial on how to add Rive to Framer
+- [Update Rive text in Framer](https://www.youtube.com/watch?v=nMp1h4PG1ec) - Tutorial on how to update React code in Framer to dynamically change a text run
 
 ### Defold
 
