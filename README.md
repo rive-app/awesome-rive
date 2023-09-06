@@ -204,6 +204,7 @@ Table of contents:
 - [Build iOS app with Rive Animations](https://www.youtube.com/watch?v=h4vyOz4Tztg) - A full 3-hour course showcasing how to build a SwiftUI app with Rive animations.
 - [SwiftUI Animated Login Screen using Rive](https://www.youtube.com/watch?v=xKNHzWCl6Bc) - Teddy Bear Animation, create an animated and interactive Login screen.
 - [Glassmorphism card](https://www.youtube.com/watch?v=AiPq5u5UEwM) - Complex background animations using SwiftUI & Rive.App
+- [SwiftUI/Rive: Create an animated swipe to delete](https://youtu.be/_GU342Yb4vQ) - Step-by-step tutorial to create an animated swipe to delete with SwiftUI 5 using DragGesture.
 
 ### React Native
 
@@ -311,6 +312,7 @@ See the [Rive Pull To Refresh use case page](https://rive.app/use-cases/pull-to-
 
 **SwiftUI**
 
+- [Swipe to delete animation](https://www.youtube.com/watch?v=_GU342Yb4vQ) - A video tutorial on how to attach an animation to a drag gesture to delete todo items ([code](https://github.com/HayesGordon/swiftui-animated-swipe-to-delete/tree/main)).
 - [Swipeable (dismissable) daily TODO app demo](https://github.com/HayesGordon/swiftui-swipeable-rive-animations) - Demonstrates how to create custom swipeable (dismissable) gestures, with a synced Rive animation.
 
 ### Animated Cursor
