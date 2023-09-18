@@ -127,6 +127,9 @@ Table of contents:
 **EvolveYou**
 - [How We Designed a Gamification Platform to Keep Our Users Engaged](https://evolveyou-tech.medium.com/how-we-designed-a-gamification-platform-to-keep-our-users-engaged-c175c9c8283f) - "Rive was the best choice for us as it’s the rising star in bridging animation between design and code".
 
+**Struck**
+- [How Rive Helped Us Bring Ambitious Ideas to Life for Chia.com](https://www.struck.com/news/how-rive-helped-us-bring-ambitious-ideas-to-life-for-chia-com/) - "The magic here is…we added the functionality piece by piece by using state machines. Something that would take you a lot of hours was just a few clicks away with Rive"
+
 ### GameKit
 - [Why we chose Flutter for the Rive GameKit](https://rive.app/blog/why-we-chose-flutter-for-the-rive-gamekit) - "The Rive GameKit for Flutter is the first product to take advantage of the Rive Renderer. It's available now as a technical preview"
 
