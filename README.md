@@ -30,6 +30,7 @@ Table of contents:
   - [Videos](#videos)
     - [Introduction](#introduction-1)
     - [Rive Editor](#rive-editor)
+    - [Runtime Basics](#runtime-basics)
     - [Rive GameKit](#rive-gamekit)
     - [Web/JS](#webjs)
     - [React](#react-1)
@@ -182,6 +183,9 @@ Table of contents:
 
 - [Hamburger Menu](https://www.youtube.com/watch?v=6zsh1musFuE) - Use simple motion to create icon animations.
 - [Wait, Loading](https://www.youtube.com/watch?v=9iyHMAmBw5U) - Create a loading bar in Rive.
+
+### Runtime Basics
+- [Handling Rive buttons at runtime] (https://www.youtube.com/watch?v=bfR2xiF4uS4) - Considerations for integrating a button at runtime.
 
 ### Rive GameKit
 - [Introducing the Rive GameKit for Flutter](https://www.youtube.com/watch?v=YwRWJX0OC34) - Overview of the Rive GameKit
