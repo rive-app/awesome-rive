@@ -82,6 +82,7 @@ Table of contents:
 - [React-Native](https://help.rive.app/runtimes/overview/react-native)
 - [Windows](https://github.com/CommunityToolkit/Labs-Windows/blob/main/labs/RivePlayer/samples/RivePlayer.Samples/RivePlayer.md)
 - [C++](https://github.com/rive-app/rive-cpp)
+- [Qt](https://github.com/basysKom/RiveQtQuickPlugin)
 - [Defold](https://defold.com/extension-rive/)
 - [Tizen](https://github.com/rive-app/rive-tizen)
 - [Noesis](https://help.rive.app/runtimes/overview/noesis)
