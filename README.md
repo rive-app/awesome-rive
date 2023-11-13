@@ -44,7 +44,9 @@ Table of contents:
     - [Webflow](#webflow)
     - [Frameworks](#frameworks-1)
   - [Games](#games)
-    - [Rive GameKit](#rive-gamekit-1)
+    - [Unity](#unity)
+    - [Bevy](#bevy)
+    - [Flutter GameKit](#flutter-gamekit)
     - [Noesis](#noesis-1)
     - [Web/JS](#webjs-1)
     - [Flutter](#flutter-2)
@@ -264,8 +266,20 @@ Table of contents:
 
 ## Games
 
-### Rive GameKit
-Learn more about the Rive GameKit: https://rive.app/use-cases/rive-gamekit-for-flutter
+### Unity
+Learn more about the Unity runtime: https://help.rive.app/game-runtimes/unity
+
+GitHub Repository: https://github.com/rive-app/rive-unity
+
+Official examples: https://github.com/rive-app/rive-unity-examples
+
+### Bevy
+Learn more about the Bevy runtime: https://help.rive.app/game-runtimes/bevy
+
+GitHub Repository: https://github.com/rive-app/rive-bevy
+
+### Flutter GameKit
+Learn more about the Rive GameKit: https://help.rive.app/rive-gamekit/overview
 
 Example games: https://github.com/rive-app/rive-gamekit-examples
 
