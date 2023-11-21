@@ -117,6 +117,8 @@ Table of contents:
 
 - [Lip Syncing](https://blog.duolingo.com/world-character-visemes/) - Art meets technology: the next step in bringing our characters to life.
 
+- [How we Animate the Duolingo World](https://www.youtube.com/watch?v=fgOqvyPif3g) - The innovative tech behind our characters
+
 **Animade**
 
 - [Getting mischievous with Rive](https://animade.tv/notes/rive-jive) - "We love playing around with new software, so we picked up Rive, an app for creating interactive animations."
@@ -133,6 +135,9 @@ Table of contents:
 
 **Struck**
 - [How Rive Helped Us Bring Ambitious Ideas to Life for Chia.com](https://www.struck.com/news/how-rive-helped-us-bring-ambitious-ideas-to-life-for-chia-com/) - "The magic here is…we added the functionality piece by piece by using state machines. Something that would take you a lot of hours was just a few clicks away with Rive"
+
+**Viget**
+- [Create Rive-ting Animations](https://www.viget.com/articles/create-rive-animations/) - "Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."
 
 ### GameKit
 - [Why we chose Flutter for the Rive GameKit](https://rive.app/blog/why-we-chose-flutter-for-the-rive-gamekit) - "The Rive GameKit for Flutter is the first product to take advantage of the Rive Renderer. It's available now as a technical preview"
