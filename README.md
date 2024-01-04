@@ -168,6 +168,7 @@ Table of contents:
 - [Rive Flutter Animation](https://flutterservice.com/rive-flutter-animation/) - Best approach for animation in 2023.
 - [Rive 2 — 2.5D Avatar With Pointer Tracking Using Flutter](https://betterprogramming.pub/rive-2-2-5d-avatar-with-pointer-tracking-6ea069df2fa) - Interactive head tracking example.
 - [Flutter Flow Rive Integration](https://docs.flutterflow.io/actions/actions/animation/rive-animation) - How to use Rive in Flutter Flow
+- [Rive Animation for Flutter: A Beginner's Guide to Creating Stunning Animations with Ease!](https://clouds.hashnode.dev/rive-animation-for-flutter-a-beginners-guide-to-creating-stunning-animations-with-ease) - An indepth guide on creating and integrating Rive animations in Flutter
 
 ### Frameworks
 
