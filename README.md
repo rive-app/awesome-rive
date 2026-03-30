@@ -103,6 +103,8 @@ Table of contents:
 
 - [Riveflow](https://riveflow.webflow.io/) - Learn how to create next-level interactive animations for Webflow websites with Rive.
 
+- [Rive Playground](https://nano-step.github.io/rive-playground/playground/) - Open-source visual inspector and real-time ViewModel editor for .riv files. [Source](https://github.com/nano-step/rive-playground)
+
 ---
 
 ## Articles
