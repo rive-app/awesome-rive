@@ -80,6 +80,7 @@ Table of contents:
 - macOS (Coming Soon)
 - [Android](https://help.rive.app/runtimes/overview/android)
 - [Flutter](https://help.rive.app/runtimes/overview/flutter)
+- [Angular](https://github.com/Grandgular/rive)
 - [React](https://help.rive.app/runtimes/overview/react)
 - [React-Native](https://help.rive.app/runtimes/overview/react-native)
 - [Windows](https://github.com/CommunityToolkit/Labs-Windows/blob/main/labs/RivePlayer/samples/RivePlayer.Samples/RivePlayer.md)
