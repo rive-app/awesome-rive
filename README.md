@@ -43,6 +43,9 @@ Table of contents:
     - [Defold](#defold)
     - [Webflow](#webflow)
     - [Frameworks](#frameworks-1)
+  - [Preview Tools](#preview-tools)
+    - [Rive Preview](#rive-preview)
+    - [Rive Rip](#rive-rip)
   - [Games](#games)
     - [Unity](#unity)
     - [Bevy](#bevy)
@@ -270,6 +273,16 @@ Table of contents:
 ************Gatsby************
 
 - [Rise of the Robots | Gatsby + Rive](https://www.youtube.com/watch?v=37-BKyNlJzs) - Immersive web experiences can get high lighthouse scores, be fully accessible, and convert users across all devices.
+
+---
+
+## Preview Tools
+
+### Rive Preview
+Visit the official Rive previewer for testing animation playback in the browser: https://rive.app/preview
+
+### Rive Rip
+Visit rive.rip for a fully-featured Rive web previewer (animation playback and state machine control): https://rive.rip
 
 ---
 
