@@ -14,6 +14,7 @@ Table of contents:
   - [Rive Overview](#rive-overview)
   - [Runtime Documentation](#runtime-documentation)
   - [Courses](#courses)
+    - [Rive Scripting](#rive-scripting)
     - [SwiftUI](#swiftui)
   - [Resources](#resources)
   - [Articles](#articles)
@@ -94,6 +95,10 @@ Table of contents:
 
 ## Courses
 
+### Rive Scripting
+
+- [LERP — Luau Education for Rive Professionals](https://forge.mograph.life/apps/lerp/) - Free, open-source interactive course for learning Rive Luau scripting in the Rive Editor, with lessons, exercises, quizzes, API references, and capstone projects. [Source](https://github.com/ivg-design/lerp)
+
 ### SwiftUI
 
 - [Build an animated app](https://designcode.io/swiftui-rive) - Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions. [Flutter](https://github.com/Aashu-Dubey/flutter-samples/tree/main/lib/samples/ui/rive_app), [React-Native](https://github.com/lklima/rive-animated-app) and [Ionic](https://github.com/Aashu-Dubey/Ionic-UI-Templates/tree/main/ionic_ui_templates/src/app/templates/course-rive) are also available as open source projects.
@@ -105,6 +110,8 @@ Table of contents:
 - [Riveflow](https://riveflow.webflow.io/) - Learn how to create next-level interactive animations for Webflow websites with Rive.
 
 - [Rive Playground](https://nano-step.github.io/rive-playground/playground/) - Open-source visual inspector and real-time ViewModel editor for .riv files. [Source](https://github.com/nano-step/rive-playground)
+
+- [Rive Animation Viewer](https://forge.mograph.life/apps/rav/) - Open-source local and desktop viewer for `.riv` files with runtime controls, ViewModelInstance debugging, JavaScript configuration editing, standalone export, and MCP remote control. [Source](https://github.com/ivg-design/rive-animation-viewer)
 
 ---
 
