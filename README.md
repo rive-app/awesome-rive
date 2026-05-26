@@ -95,9 +95,13 @@ Table of contents:
 
 ## Courses
 
+### Rive Animation  
+- [Rive Masterclass for Designers](https://www.rivemasterclass.com/) - Project-based course covering Rive animation, State Machines, Data Binding, and Scripting through 60+ hands-on lessons. Built around one rolling product (an interactive weather app). For product and motion designers.
+
 ### Rive Scripting
 
 - [LERP — Luau Education for Rive Professionals](https://forge.mograph.life/apps/lerp/) - Free, open-source interactive course for learning Rive Luau scripting in the Rive Editor, with lessons, exercises, quizzes, API references, and capstone projects. [Source](https://github.com/ivg-design/lerp)
+- [Rive Scripting & AI Agent Course — Rive Masterclass](https://www.rivemasterclass.com/rive-scripting) - Project-based course teaching Rive scripting and Rive's AI Agent, by building a complete interactive space game. For designers, no programming experience required.
 
 ### SwiftUI
 
