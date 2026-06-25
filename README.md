@@ -73,11 +73,17 @@ Table of contents:
 [Rive](https://rive.app/) is a real-time interactive design and animation tool that helps teams create and run interactive animations anywhere. Designers and developers use our collaborative editor to create motion graphics that respond to different states and user inputs. Our lightweight open-source runtime libraries allow them to load their animations into apps, games, and websites.
 
 ## Runtime Documentation
+
+### Official Docs
+
 - [Official Rive documentation](https://rive.app/docs)
-- [C++](https://github.com/rive-app/rive-cpp)
+
+### Community Docs
+
 - [Qt](https://github.com/basysKom/RiveQtQuickPlugin)
 - [Defold](https://defold.com/extension-rive/)
 - [Tizen](https://github.com/rive-app/rive-tizen)
+- [RiveCMP](https://github.com/muazkadan/Rive-CMP)
 
 ---
 
@@ -252,10 +258,6 @@ Learn more about the Unity runtime: https://rive.app/docs/game-runtimes/unity/un
 GitHub Repository: https://github.com/rive-app/rive-unity
 
 Official examples: https://github.com/rive-app/rive-unity-examples
-
-### Bevy
-
-GitHub Repository: https://github.com/rive-app/rive-bevy
 
 
 ### Web/JS
