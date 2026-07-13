@@ -115,6 +115,8 @@ Table of contents:
 
 - [Rive Playground](https://nano-step.github.io/rive-playground/playground/) - Open-source visual inspector and real-time ViewModel editor for .riv files. [Source](https://github.com/nano-step/rive-playground)
 
+- [Rive Analyzer](https://nano-step.github.io/rive-analyzer/) - Open-source, fully client-side tool that grades a `.riv` against a best-practice catalog: full inventory, an A–F score with per-finding reasons, and an optimization plan — with every rule linked to the official Rive docs. From the author of Rive Playground. [Source](https://github.com/nano-step/rive-analyzer)
+
 - [Rive Animation Viewer](https://forge.mograph.life/apps/rav/) - Open-source local and desktop viewer for `.riv` files with runtime controls, ViewModelInstance debugging, JavaScript configuration editing, standalone export, and MCP remote control. [Source](https://github.com/ivg-design/rive-animation-viewer)
 
 ---
