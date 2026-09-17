@@ -14,6 +14,8 @@ Table of contents:
   - [Rive Overview](#rive-overview)
   - [Runtime Documentation](#runtime-documentation)
   - [Courses](#courses)
+    - [Rive Data Binding](#rive-data-binding)
+    - [Rive Animation](#rive-animation)
     - [Rive Scripting](#rive-scripting)
     - [SwiftUI](#swiftui)
   - [Resources](#resources)
@@ -94,6 +96,10 @@ Table of contents:
 ---
 
 ## Courses
+
+### Rive Data Binding
+
+- [Rive Academy Data Binding — School of Motion](https://www.schoolofmotion.com/courses/rive-academy-data-binding?via=leo-mazzei) - Advanced course by Leo Mazzei, building a six-page personalized yearly recap with data binding, ViewModel instances, converters, state machines, nested and stateful components, lists, bindable artboards, responsive layouts, and the scroll constraint. Includes a supplied runtime tester.
 
 ### Rive Animation  
 - [Rive Masterclass for Designers](https://www.rivemasterclass.com/) - Project-based course covering Rive animation, State Machines, Data Binding, and Scripting through 60+ hands-on lessons. Built around one rolling product (an interactive weather app). For product and motion designers.
