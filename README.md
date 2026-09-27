@@ -155,6 +155,9 @@ Table of contents:
 **Viget**
 - [Create Rive-ting Animations](https://www.viget.com/articles/create-rive-animations/) - "Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."
 
+**Leo Mazzei**
+- [Year in Motion — Rive Academy Data Binding](https://leomazzei.com/work/year-in-motion) - Case study of the six-page personalized learning recap built for School of Motion's Rive Academy Data Binding course, covering data modeling, interactive motion design, responsive layouts, and runtime testing.
+
 ### GameKit
 - [Why we chose Flutter for the Rive GameKit](https://rive.app/blog/why-we-chose-flutter-for-the-rive-gamekit) - "The Rive GameKit for Flutter is the first product to take advantage of the Rive Renderer. It's available now as a technical preview"
 
