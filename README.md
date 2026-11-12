@@ -125,6 +125,8 @@ Table of contents:
 
 - [Rive Animation Viewer](https://forge.mograph.life/apps/rav/) - Open-source local and desktop viewer for `.riv` files with runtime controls, ViewModelInstance debugging, JavaScript configuration editing, standalone export, and MCP remote control. [Source](https://github.com/ivg-design/rive-animation-viewer)
 
+- [Animoria](https://extensions.sxnnysideproject.com/en/animoria/) - Open-source VS Code and JetBrains extension that finds unused and duplicate `.riv` files, along with Lottie, SVG and raster assets, in app and game projects. [Source](https://github.com/sxnnyside-project/animoria)
+
 ---
 
 ## Articles
