@@ -125,6 +125,10 @@ Table of contents:
 
 - [Rive Animation Viewer](https://forge.mograph.life/apps/rav/) - Open-source local and desktop viewer for `.riv` files with runtime controls, ViewModelInstance debugging, JavaScript configuration editing, standalone export, and MCP remote control. [Source](https://github.com/ivg-design/rive-animation-viewer)
 
+- [Charmotion](https://charmotion.app) - Turns one image of a logo or character into a `.riv` with a state machine (launch, idle, happy, wave, loading) plus Web, React and SwiftUI code. Also works from Claude, Cursor and VS Code through an [MCP server](https://github.com/charmotion/charmotion-mcp).
+
+- [Rive File Inspector](https://charmotion.app/tools/rive-file-inspector) - Free in-browser tool that lists a `.riv` file's artboards, animations, state machines, inputs and view models, and lets you drive them live. Nothing is uploaded.
+
 ---
 
 ## Articles
